@@ -1,0 +1,22 @@
+3 // 3 studenta
+72018 // fn student 1 
+Information systems // spec student 1
+1 // grupa student 1 
+Alkan Mustafa // ime student 1
+2 //course 
+status//
+5 //broy disciplini
+DIS1 // name
+3 // grade
+true // compulsory
+course // course
+Algebra
+4
+UP
+5
+MUI 
+ocenka
+etc 
+ocenka
+etc 
+ocenka
